@@ -8,10 +8,9 @@
     Through this book store the users can search for a book by its title and
     later can add to the shopping cart and finally purchase using credit card transaction.
     
- ##   [Live App Demo](https://akshatbookstore.netlify.app/)
+ ##   [Live App Demo]
  
  
- ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
 
 # Tools Used
 
@@ -48,23 +47,23 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code>  </code>
 </h3>
   <p align="center"> 
 
-  <a href="https://github.com/Akshatjalan">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
+  <a href="https:"">
+    <img src="" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
+  <a href="https:"">
+    <img src="" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/akshatxjalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
+  <a href="">
+    <img src="" width="30" height="30" hspace="20">
   </a>
     <a href="">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
+    <img src=""  width="30" height="30" hspace="20">
   </a>
 
 </p>
